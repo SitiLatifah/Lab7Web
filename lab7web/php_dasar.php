@@ -17,12 +17,7 @@
     $nama = 'Siti Latifah';
     echo "NIM : " . $nim . "<br>";
     echo "Nama : $nama";
-?><br>
-
-<!-- Predefine variabel -->
-<h1>Predefine Variabel</h1>
-<?php
-echo 'Selamat Datang ' . @$_GET['nama'];
 ?>
+
 </body>
 </html>

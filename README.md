@@ -105,7 +105,7 @@ echo 'Selamat Datang ' . @$_POST['nama'];
 ```
 
 ## OUTPUT
-Kemudian Masukan Nama
+Kemudian Masukan Nama <br>
 ![Screenshot (263)](https://user-images.githubusercontent.com/73010098/168458394-bf709e51-5a7d-4693-865b-4014fee681e4.png)
 
 ## OPERATOR PADA PHP
